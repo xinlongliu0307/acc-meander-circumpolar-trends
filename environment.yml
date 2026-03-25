@@ -1,0 +1,19 @@
+name: acc-meander
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy>=1.24
+  - pandas>=2.0
+  - xarray>=2023.01
+  - scipy>=1.10
+  - matplotlib>=3.7
+  - cartopy>=0.21
+  - netcdf4>=1.6
+  - statsmodels>=0.14
+  - jupyterlab>=4.0
+  - pip
+  - pip:
+    - pymannkendall>=1.4
+    - cdsapi>=0.6

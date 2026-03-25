@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (too large for Git)
+*.nc
+*.grd
+*.csv
+
+# Figures (generated outputs)
+figures/output/
+*.pdf
+*.png
+
+# Environment
+.env
+*.log.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# NCI/PBS job files
+*.o[0-9]*
+*.e[0-9]*
+*.pbs.o*
+*.pbs.e*
