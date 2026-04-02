@@ -158,7 +158,7 @@ python scripts/utils/combine_cp_bathymetry.py        # Pre-requisite for Fig 1/S
 ## Methods Summary
 
 ### Meander Detection (NB02)
-Daily ADT gradient fields → 20% relative threshold → 4-month occurrence aggregation → peak extraction with half-peak-height width [Liu et al. (2024)](https://doi.org/10.1029/2023JC019876).
+Daily ADT gradient fields → 20% relative threshold → 4-month occurrence aggregation → peak extraction with half-peak-height width ([Liu et al. (2024)](https://doi.org/10.1029/2023JC019876); [Liu et al. (2026)](https://doi.org/10.1029/2025JC023527)).
 
 ### Trend Analysis (NB03)
 Sen's slope estimator with autocorrelation-adaptive Mann-Kendall significance testing. EKE computed as `spatial_mean(0.5 × (u'² + v'²))` with per-grid-point anomalies.
