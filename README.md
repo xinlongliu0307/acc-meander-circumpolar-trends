@@ -178,9 +178,8 @@ Threshold sensitivity (15–40%), resolution/metric comparison at CP and PAR (4 
   author  = {Liu, Xinlong},
   title   = {Circumpolar Satellite Evidence for Topographically-Modulated
              Multi-Decadal Evolution of {Southern Ocean} Standing Meanders},
-  journal = {Geophysical Research Letters},
-  year    = {2026},
-  note    = {In preparation}
+  journal = {Submitted to Geophysical Research Letters},
+  year    = {2026}
 }
 ```
 
