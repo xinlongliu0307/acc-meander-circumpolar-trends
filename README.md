@@ -8,7 +8,7 @@
 
 Analysis code for the manuscript submitted to **Geophysical Research Letters (GRL)**:
 
-> **Liu, X.** (2026). Circumpolar Satellite Evidence for Topographically-Modulated Multi-Decadal Evolution of Southern Ocean Standing Meanders. *Geophysical Research Letters*.
+> **Liu, X.** (2026). Circumpolar Satellite Evidence for Topographically-Modulated Multi-Decadal Evolution of Southern Ocean Standing Meanders. *Submitted to Geophysical Research Letters*.
 
 ---
 
