@@ -8,7 +8,7 @@
 
 Analysis code for the manuscript submitted to **Geophysical Research Letters (GRL)**:
 
-> **Liu, X.** (2026). Circumpolar Satellite Evidence for Topographically-Modulated Multi-Decadal Evolution of Southern Ocean Standing Meanders. *Submitted to Geophysical Research Letters*.
+> **Liu, X.** (2026). Circumpolar Satellite Evidence for Topographically-Modulated Multi-Decadal Evolution of Southern Ocean Standing Meanders. *Under review at Geophysical Research Letters*.
 
 ---
 
@@ -178,7 +178,7 @@ Threshold sensitivity (15–40%), resolution/metric comparison at CP and PAR (4 
   author  = {Liu, Xinlong},
   title   = {Circumpolar Satellite Evidence for Topographically-Modulated
              Multi-Decadal Evolution of {Southern Ocean} Standing Meanders},
-  journal = {Submitted to Geophysical Research Letters},
+  journal = {Under Review at Geophysical Research Letters},
   year    = {2026}
 }
 ```
